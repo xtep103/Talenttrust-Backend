@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/1339-audit-middleware-concurrency",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/1339-audit-middleware-concurrency": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/1339-audit-middleware-concurrency",
+    "origin"
+  ]
+}
